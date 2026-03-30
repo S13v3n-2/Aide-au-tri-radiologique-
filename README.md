@@ -1,8 +1,14 @@
 # Aide au tri radiologique — Deep Learning
 
-Projet académique de classification de pathologies thoraciques par deep learning.
-**Keras 3 / TensorFlow 2.15+ · MLflow · Streamlit**
+Projet académique de classification de pathologies thoraciques par deep learning.  
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Nvidia](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)  
+**Keras 3 / TensorFlow 2.15+ · MLflow · Streamlit**  
 ---
 
 ## Présentation
