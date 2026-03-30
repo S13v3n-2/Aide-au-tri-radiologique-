@@ -46,9 +46,9 @@ Projet_Deep_Learning/
 | Modèle | ROC-AUC | PR-AUC | F1-macro |
 |---|---|---|---|
 | **EfficientNetV2-S** | **0.7684** | **0.158** | **0.168** |
-| DenseNet-121 | 0.506 | — | — |
-| CNN scratch | ~0.50 | — | — |
-| ViT-Small | ~0.50 | — | — |
+| DenseNet-121 | 0.506 | 0,05 | 0,07 |
+| CNN scratch | ~0.50 | 0,05 | 0,06 |
+| ViT-Small | ~0.50 | 0,05 | 0,06 |
 | ConvVAE (anomalie) | 0.52 | — | — |
 
 > Seul EfficientNetV2-S apprend réellement sur ChestMNIST 64×64. Les modèles multimodaux
